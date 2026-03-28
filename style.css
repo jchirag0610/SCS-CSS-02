@@ -47,7 +47,7 @@ button {
     border-radius: 8px;
     color: #372305;
     font-family: levin;
-    font-size: 20px;
+    font-size: 35px;
     /* background: linear-gradient(120deg, rgb(208, 206, 193), #372305); */
     background: linear-gradient(#372305,#fff,goldenrod,#fff,#372305);
 }
