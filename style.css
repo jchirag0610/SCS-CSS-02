@@ -43,7 +43,7 @@ h1 {
 
 button {
     padding: 5px 10px;
-    border: 0px;
+    border: none;
     border-radius: 8px;
     color: #372305;
     font-family: levin;
